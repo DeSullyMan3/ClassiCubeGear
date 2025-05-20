@@ -1,4 +1,4 @@
-[OG ClassiCube Repo]([https://pages.github.com/](https://github.com/ClassiCube/ClassiCube))
+[ClassiCube Repo](https://github.com/ClassiCube/ClassiCube)
 # ClassiCubeGear
 ClassiCube (poorly) ported to Tizen wearables.
 This is just the web version of ClassiCube with a modified ClassiCube.js file to make the touch controls appear.
